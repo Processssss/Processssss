@@ -56,11 +56,11 @@
 
 ###
 
-<img align="right" height="222" src="https://raw.githubusercontent.com/Processssss/Processssss/main/assets/Jensen_Ackles.gif"  />
+<img align="left" height="222" src="https://raw.githubusercontent.com/Processssss/Processssss/main/assets/Jensen_Ackles.gif"  />
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://open.spotify.com/user/o39wak6i9vwcuezqv7imgsnfy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=o39wak6i9vwcuezqv7imgsnfy&count=5&unique=true" alt="Spotify recently played"  />
   </a>
