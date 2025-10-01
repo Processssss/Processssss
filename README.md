@@ -13,39 +13,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
-<p align="left">I am a third-year student at EPITECH Nancy, passionate about software development and solving complex problems. I love designing optimized and high-performance solutions, whether through system projects, bot development, or exploring new technologies.<br><br>Curious and pragmatic, I enjoy tackling technical challenges, always striving to improve my skills and deepen my understanding of computer systems. Whether working with C/C++, developing low-level tools, or creating advanced Discord bots, I aim to build efficient and well-structured applications.<br><br>Currently, I am working on developing Discord bots in C++ using the DPP (Discord++) library, integrating features such as moderation, role management, server statistics display, and even an interactive soundboard. I am also interested in performance optimization, network management, and advanced audio processing tools</p>
+<p align="left">I am a third-year student at EPITECH Nancy, passionate about software development and solving complex problems. I love designing optimized and high-performance solutions, whether through system projects, bot development, or exploring new technologies.<br><br>Curious and pragmatic, I enjoy tackling technical challenges, always striving to improve my skills and deepen my understanding of computer systems.</p>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">  My Stats :</h3>
 
 ###
 
